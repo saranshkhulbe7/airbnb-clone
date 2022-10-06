@@ -23,11 +23,11 @@ function Footer() {
 
       <div className="space-y-4 text-xs text-gray-800">
         <h3 className="font-bold">HOST</h3>
-        <p>Papa React</p>
+        <p>Saransh Khulbe Creations</p>
         <p>Presents</p>
         <p>Zero to Full Stack Hero</p>
-        <p>Hundreds of Students</p>
-        <p>Join Now</p>
+        <p>Hundreds of builds</p>
+        <p>Stay excited!</p>
       </div>
 
       <div className="space-y-4 text-xs text-gray-800">

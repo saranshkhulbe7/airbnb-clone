@@ -1,0 +1,2 @@
+Map issue solved by
+import 'mapbox-gl/dist/mapbox-gl.css';

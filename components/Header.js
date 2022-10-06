@@ -70,7 +70,7 @@ function Header({ placeholder }) {
         <input
           value={searchInput}
           onChange={(e) => setSearchInput(e.target.value)}
-          className="pl-5 bg-transparent outline-none flex-grow text-sm text-gray-600 placeholder-gray-400"
+          className="pl-5 bg-transparent outline-none flex-grow text-sm text-gray-600 placeholder-gray-400 overflow-hidden"
           type="text"
           placeholder={`${placeholder || "Start your search"}`}
         />
